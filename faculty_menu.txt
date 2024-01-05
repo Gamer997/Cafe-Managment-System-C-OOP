@@ -1,0 +1,23 @@
+Beverages
+
+Coffee: $2.50
+Espresso: $3.00
+Latte: $3.50
+Cappuccino: $4.00
+Tea: $2.00
+Hot Chocolate: $3.00
+Iced Coffee: $3.00
+Iced Tea: $2.50
+Smoothie: $5.00
+
+Salad: $8.00
+Soup: $5.00
+Pastry: $4.00
+Fruit Salad: $6.00
+
+Ice Cream: $4.00
+Cake: $6.00
+Pie: $5.00
+Cookie: $2.00
+Pasta: $5
+

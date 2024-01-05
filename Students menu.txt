@@ -1,0 +1,36 @@
+Appetizer and Fast Food
+Chicken Nuggets with Fries: $5.99
+Grilled Cheese Sandwich with Tomato Soup: $4.99
+Macaroni and Cheese: $4.50
+Pizza Slice: $3.99
+Hamburger with Fries: $6.99
+French Fries: $2.50
+Onion Rings: $2.99
+Salad: $3.50
+Fruit Cup: $2.99
+
+Drinks and Sweet 
+Ice Cream: $3.00
+Chocolate Chip Cookie: $2.00
+Fruit Salad: $4.00
+Rice Pudding: $2.50
+Milk: $1.50
+Orange Juice: $1.50
+Apple Juice: $1.50
+Bottled Water: $2.00
+
+Coffee: $2.50
+Espresso: $3.00
+Latte: $3.50
+Cappuccino: $4.00
+Tea: $2.00
+Hot Chocolate: $3.00
+Iced Coffee: $3.00
+Iced Tea: $2.50
+Smoothie: $5.00
+
+Sandwich: $7.00
+Salad: $8.00
+Soup: $5.00
+Pastry: $4.00
+Fruit Salad: $6.00

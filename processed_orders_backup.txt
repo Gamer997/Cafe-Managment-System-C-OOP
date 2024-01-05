@@ -1,0 +1,52 @@
+customer id: 43
+customer name: Shahzaib
+order item: Hot Chocolate
+
+customer id: 43
+customer name: Shahzaib
+order item: Salad
+
+customer id: 88
+customer name: Shoaib
+order item: Pie
+
+customer id: 43
+customer name: Shahzaib
+order item: Smoothie
+
+customer id: 789
+customer name: Ali
+order item: Pasta
+
+customer id: 882
+customer name: Khursheed
+order item: Chai
+
+customer id: 43
+customer name: Shahzaib
+order item: Fruit Salad
+
+customer id: 43
+customer name: Shahzaib
+order item: Soup
+
+Customer ID: 43
+Customer Name: Shahzaib
+Order Item: Latte
+
+Customer ID: 43
+Customer Name: Shahzaib
+Order Item: Fruit Salad
+
+Customer ID: 43
+Customer Name: Shahzaib
+Order Item: Pasta
+
+Customer ID: 43
+Customer Name: Shahzaib
+Order Item: Sandwich
+
+Customer ID: 43
+Customer Name: Shahzaib
+Order Item: Smoothie
+

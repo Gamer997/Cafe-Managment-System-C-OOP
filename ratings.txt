@@ -1,0 +1,20 @@
+Customer ID: 789
+Customer Name: ali
+Rated Item: Pasta: $5
+Rating: 5/5
+
+Customer ID: 882
+Customer Name: khursheed
+Rated Item: Jalebi: $1.00 (each)
+Rating: 4/5
+
+Customer ID: 43
+Customer Name: Shahzaib
+Rated Item: Pasta: $5
+Rating: 5/5
+
+Customer ID: 43
+Customer Name: Shahzaib
+Rated Item: Cake: $6.00
+Rating: 4/5
+

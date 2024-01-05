@@ -1,0 +1,27 @@
+Beverages
+
+Chai (Tea): $2.00
+Lassi (Yogurt Drink): $3.00
+Rooh Afza (Rosewater Drink): $4.00
+Mango Shake: $5.00
+
+Appetizers
+
+Samosas (Crispy Fried Pastries): $5.00
+Pakoras (Vegetable Fritters): $6.00
+Dahi Bhalla (Lentil Dumplings in Yogurt): $7.00
+Chicken Tikka (Marinated Grilled Chicken): $8.00
+
+Main Courses
+
+Biryani (Rice Dish with Meat or Vegetables): $12.00
+Nihari (Slow-Cooked Beef Stew): $14.00
+Karahi (Spicy Stir-Fry): $15.00
+Haleem (Lentil and Meat Stew): $16.00
+
+Desserts
+
+Gulab Jamun (Sweet Milk Dumplings): $4.00
+Kheer (Rice Pudding): $5.00
+Kulfi (Indian Ice Cream): $6.00
+Gajjar ka Halwa (Carrot Pudding): $7.00
