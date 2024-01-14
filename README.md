@@ -41,25 +41,39 @@ Staff manages and confirms reservations, ensuring efficient table allocation and
 
 
 * What Administrator Can do?
-*i. ViewMenu
 
-*ii. AddMenuItem
+i. ViewMenu
 
-*iii. RemoveMenuItem
+ii. AddMenuItem
 
-  iv.  ManageInventory 
-   v.  ManageDiscountPromotion 
-  vi.  ViewOrderHistory
- vii. AddNotification
+iii. RemoveMenuItem
+
+iv.  ManageInventory 
+
+v.  ManageDiscountPromotion 
+  
+vi.  ViewOrderHistory
+ 
+vii. AddNotification
+
 viii. RemoveNotification
+
   ix.  RateMenuItem
+  
   x. DisplayFromFile
+
 xi. ViewUsersFromFile
+
 xii.  ViewMenuItemsFromFile
+
 xiii.  ViewOrdersFromFile
+
 xiv.  ViewRatingsFromFile
+
 xv. ViewPaymentsFromFile
+
 xvi. CalculateMonthlyEarnings
+
 xvii. Log Out
 
 * Admin Menu:
@@ -77,22 +91,33 @@ xvii. Log Out
 * Costumers: 
 * Types of Costumers and what they can do?
   Costumers can order there food, Process order and can rate Food if Administrator Allows.
+
   i) Faculty: Can order From any type of Menu
+
   ii) Non-Faculty: Can order From only Non-faculty Menu
+
   iii) Students: Can Order From Students Menu
   
 * CafeStaff:
 Cafe Staff Menu options:
+
 i) View Menu
+
 ii) Process Order
+
 iii) Remove Item from Menu
+
 iv) Create changing in Menu
 
 ### Inventory Managemnt: 
 Administrator can manage inventory and Administor can Make following changes in inventory. 
+
 i) Update Inventory
+
 ii) Add item in Inventory
+
 iii) Remove Item from Inventory 
+
 iv) Display the Complete Inventory 
 
 
@@ -101,15 +126,24 @@ iv) Display the Complete Inventory
 Rating Option is available for user It is Choice of Administrator to allow User to give rating or Not.
 
 ### File Mangament and File Handling:
+
 i) All of User Names, Passwords and Data is Stored in file
+
 ii) Data is Retreived from Files
+
 iii) All Types of User Menus are Stored in file 
 
 
 ## Project Features:
+
 i)A completely menu-driven program.
+
 ii) Interactive and well designed Menus for Users based on user type
+
 iii) Proper Implementation of file handling
+
 iv) Ascii Art Implementation to make Terminal more attractive
+
 v) Interactive Login For all types of User
+
 iv) Demonstrate all Major Concepts of Object Oriented Programming. 
