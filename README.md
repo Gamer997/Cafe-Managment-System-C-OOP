@@ -1,6 +1,7 @@
 # Cafe Management System (CMS)
 ## Overview:
  The Cafe Management System (CMS) project is designed to manage menu items, process orders, handle payments, track inventory, and offer distinct user roles for customers, cafe staff, and administrators. The system aims to streamline the process of ordering, benefiting students, faculty, and non-faculty members with various features.
+![image](https://github.com/Gamer997/Cafe-Managment-System-C-OOP/assets/98121819/39cba182-42d4-48b5-bf56-52c715e7c95c)
 
 ## Functionality Highlights:
 
