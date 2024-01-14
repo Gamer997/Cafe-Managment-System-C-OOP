@@ -41,23 +41,23 @@ Staff manages and confirms reservations, ensuring efficient table allocation and
 
 
 * What Administrator Can do?
-i) ViewMenu
-ii) AddMenuItem
-iii) RemoveMenuItem
-iv) ManageInventory 
-v) ManageDiscountPromotion 
-vi) ViewOrderHistory
-vii) AddNotification
-viii) RemoveNotification
-ix) RateMenuItem
-x) DisplayFromFile
-xi) ViewUsersFromFile
-xii) ViewMenuItemsFromFile
-xiii) ViewOrdersFromFile
-xiv) ViewRatingsFromFile
-xv) ViewPaymentsFromFile
-xvi) CalculateMonthlyEarnings
-xvii) Log Out
+  i. ViewMenu
+  ii. AddMenuItem
+ iii. RemoveMenuItem
+  iv.  ManageInventory 
+   v.  ManageDiscountPromotion 
+  vi.  ViewOrderHistory
+ vii. AddNotification
+viii. RemoveNotification
+  ix.  RateMenuItem
+  x. DisplayFromFile
+xi. ViewUsersFromFile
+xii.  ViewMenuItemsFromFile
+xiii.  ViewOrdersFromFile
+xiv.  ViewRatingsFromFile
+xv. ViewPaymentsFromFile
+xvi. CalculateMonthlyEarnings
+xvii. Log Out
 
 * Admin Menu:
 
