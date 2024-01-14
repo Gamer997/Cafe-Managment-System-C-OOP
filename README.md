@@ -1,9 +1,16 @@
 # Cafe Management System (CMS)
 ## Overview:
  The Cafe Management System (CMS) project is designed to manage menu items, process orders, handle payments, track inventory, and offer distinct user roles for customers, cafe staff, and administrators. The system aims to streamline the process of ordering, benefiting students, faculty, and non-faculty members with various features.
-![image](https://github.com/Gamer997/Cafe-Managment-System-C-OOP/assets/98121819/39cba182-42d4-48b5-bf56-52c715e7c95c)
+
+ 
 
 ## Functionality Highlights:
+
+### Interactive Login for Users:
+There is proper Interactive Login that ask for User type.
+
+![image](https://github.com/Gamer997/Cafe-Managment-System-C-OOP/assets/98121819/39cba182-42d4-48b5-bf56-52c715e7c95c)
+
 
 ### Inventory Control:
 
@@ -29,7 +36,9 @@ Staff manages and confirms reservations, ensuring efficient table allocation and
 
 ### User Types:
 * Administrator (Café Manager):
-![image](https://github.com/Gamer997/Cafe-Managment-System-C-OOP/assets/98121819/c193feac-5314-4003-ad50-10b8620f5bb7)
+
+
+
 
 * What Administrator Can do?
 i) ViewMenu
@@ -49,6 +58,19 @@ xiv) ViewRatingsFromFile
 xv) ViewPaymentsFromFile
 xvi) CalculateMonthlyEarnings
 xvii) Log Out
+
+* Admin Menu:
+
+  
+![image](https://github.com/Gamer997/Cafe-Managment-System-C-OOP/assets/98121819/c193feac-5314-4003-ad50-10b8620f5bb7)
+
+
+
+* Costumer Menu:
+
+
+  ![image](https://github.com/Gamer997/Cafe-Managment-System-C-OOP/assets/98121819/d479922d-0b87-406a-afff-b656165ebb79)
+
 * Costumers: 
 * Types of Costumers and what they can do?
   Costumers can order there food, Process order and can rate Food if Administrator Allows.
@@ -69,6 +91,8 @@ i) Update Inventory
 ii) Add item in Inventory
 iii) Remove Item from Inventory 
 iv) Display the Complete Inventory 
+
+
 
 ### Rating Option:
 Rating Option is available for user It is Choice of Administrator to allow User to give rating or Not.
