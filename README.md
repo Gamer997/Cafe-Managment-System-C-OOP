@@ -41,9 +41,12 @@ Staff manages and confirms reservations, ensuring efficient table allocation and
 
 
 * What Administrator Can do?
-  i. ViewMenu
-  ii. AddMenuItem
- iii. RemoveMenuItem
+*i. ViewMenu
+
+*ii. AddMenuItem
+
+*iii. RemoveMenuItem
+
   iv.  ManageInventory 
    v.  ManageDiscountPromotion 
   vi.  ViewOrderHistory
